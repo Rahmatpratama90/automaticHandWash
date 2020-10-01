@@ -34,7 +34,7 @@ void loop() {
     Serial.println(pot2);
     delay(10);
   
-if(distance<15){//use can increase the distance
+if(distance<15){ 
     digitalWrite(pump,LOW);
     delay(pot2); //delay berdasarkan potensio
         
