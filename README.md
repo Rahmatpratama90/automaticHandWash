@@ -1,2 +1,2 @@
 # automaticHandWash Program
-for Electrical Engineering Universitas Indonesia Community Charity
+for Department of Electrical Engineering Universitas Indonesia Community Charity
